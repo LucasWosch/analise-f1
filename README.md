@@ -68,3 +68,6 @@ Top 10 pilotos por vitórias:
  - Sebastian Vettel: 53
  ...
 ```
+
+py -m pip install --upgrade pip setuptools wheel
+py -m pip install "pandas>=2.2" "matplotlib>=3.8"
