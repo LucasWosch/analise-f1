@@ -69,5 +69,8 @@ Top 10 pilotos por vitórias:
  ...
 ```
 
+```
 py -m pip install --upgrade pip setuptools wheel
 py -m pip install "pandas>=2.2" "matplotlib>=3.8"
+```
+https://www.canva.com/design/DAG0YKkrWhQ/WuLma11zfEOea0kGzinJig/edit?utm_content=DAG0YKkrWhQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
